@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="item_list">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </array>
+    <string-array name="interestedarrays">
+
+
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+
+
+    </string-array>
+
+
+    <string-array name="month">
+
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+
+    </string-array>
+    <string-array name="liststatus">
+
+        <item>Select Order type</item>
+        <item>New</item>
+        <item>Processing</item>
+        <item>Dispatched</item>
+        <item>Delivered</item>
+
+
+    </string-array>
+
+
+    <string-array name="Sort">
+
+        <item>Select Price</item>
+        <item>High - Low</item>
+        <item>Low - High</item>
+
+
+    </string-array>
+    <string-array name="datelis">
+
+        <item>Select date</item>
+        <item>today</item>
+        <item>Week</item>
+
+    </string-array>
+
+    <string-array name="payType">
+        <item>Next Day Air</item>
+        <item>2nd Day Air</item>
+        <item>Ground</item>
+        <item>3 Day Select</item>
+        <item>Next Day Air Saver</item>
+        <item>UPS Next Day Air Early</item>
+        <item>2nd Day Air A.M.</item>
+
+
+    </string-array>
+    <string-array name="usacity">
+
+        <item>Select Type</item>
+        <item>Alabama - AL</item>
+        <item>Alaska - AK</item>
+        <item>Arizona - AZ</item>
+        <item>Arkansas - AR</item>
+        <item>California - CA</item>
+    </string-array>
+    <string-array name="category" >
+    <item>Select type</item>
+    <item>Classes</item>
+    <item>Video</item>
+
+    </string-array>
+
+
+
+
+</resources>
